@@ -1,4 +1,4 @@
-﻿-- --------------------------------------------------------
+-- --------------------------------------------------------
 -- Host:                         localhost
 -- Versión del servidor:         10.4.14-MariaDB - mariadb.org binary distribution
 -- SO del servidor:              Win64
@@ -23,7 +23,7 @@ CREATE TABLE IF NOT EXISTS `categorias` (
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT CHARSET=utf8;
 
--- Volcando datos para la tabla cg-lugares.categorias: ~3 rows (aproximadamente)
+-- Volcando datos para la tabla cg-lugares.categorias: ~4 rows (aproximadamente)
 DELETE FROM `categorias`;
 /*!40000 ALTER TABLE `categorias` DISABLE KEYS */;
 INSERT INTO `categorias` (`id`, `detalle`) VALUES
@@ -90,7 +90,7 @@ CREATE TABLE IF NOT EXISTS `lugares` (
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=utf8 COMMENT='Datos generales de los lugares';
 
--- Volcando datos para la tabla cg-lugares.lugares: ~3 rows (aproximadamente)
+-- Volcando datos para la tabla cg-lugares.lugares: ~2 rows (aproximadamente)
 DELETE FROM `lugares`;
 /*!40000 ALTER TABLE `lugares` DISABLE KEYS */;
 INSERT INTO `lugares` (`id`, `nombre`, `descripcion`, `precio`, `latitud`, `longitud`, `id_localidad`, `det_camino`, `url_fotos`, `url_videos`, `imagen`, `destacado`) VALUES
