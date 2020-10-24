@@ -1,4 +1,4 @@
-# Proyecto
+# Lugares
 
 _Lugares de Interés de la provincia de Buenos Aires_
 
