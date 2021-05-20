@@ -9,12 +9,12 @@ For more information about this assignment go to [docs](https://gitlab.com/catal
 ## Website
 
 Watch a live demo in: \
-_<http://www.catalinango.com/portfolio/lugares>_
+_<http://www.catalinango.com.ar/portfolio/lugares>_
 
 Access data:
 - user: 11223344 
 - password: 11223344
-
+r
 ## Technologies
 
 * [Google Cloud APIs](https://cloud.google.com/apis/docs/overview) - Maps & Places
