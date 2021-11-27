@@ -9,7 +9,7 @@ For more information about this assignment go to [docs](https://gitlab.com/catal
 ## Website
 
 Watch a live demo in: \
-_<https://www.catalinango.com.ar/portfolio/lugares>_
+_<https://www.catalinaguerrero.com/portfolio/lugares>_
 
 Access data:
 - user: 11223344 
